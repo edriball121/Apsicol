@@ -1,2 +1,2 @@
 # Apsicol
-Proyecto de grado, ingenieria de sistemas, uniremington
+- Proyecto de grado, ingenieria de sistemas, uniremington
